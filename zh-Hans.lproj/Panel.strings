@@ -26,7 +26,7 @@
 "Left Panel" = "侧边栏";
 "Show Outline Panel by Default" = "默认显示大纲视图";
 "Collapsible Outline on Left Panel" = "允许折叠侧边栏大纲视图";
-"Save without asking when\nswitch files on side panel" = "切换文件时自动保存更改";
+"Save without asking when\nswitch files on side panel" = "切换文件时自动保存之前更改";
 "Edited files will be saved without asking when switch files in left panel. \nWhen \"Ask to keep changes when closing documents\" is enabled in System Preference, this is always enabled." = "在侧边栏切换文件时自动保存对上个文件的更改。\n当系统偏好设置中\"关闭文件时询问是否保存更改\"被启用时，此选项总是启用。";
 "Language" = "语言";
 "System Language" = "系统语言";
@@ -200,5 +200,5 @@
 "More Formats" = "更多格式";
 "File formats under 'More Formats' sections needs <a class='open-pandoc-guide'>Pandoc to be installed</a>." = "需要 <a class='open-pandoc-guide'>安装Pandoc</a> 以支持导出'更多格式'所列的文件格式。";
 "Something is Wrong…" = "出错了...";
-"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容至新Typora窗口后再保存。<br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>向我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
+"Save content failed for some reason.<br/>You could copy the content into a new Typora window, and then save it. <br/>Learn more about:<ul><li><a href='http://support.typora.io/Report-Bugs/'>Report bugs to us</a></li><li><a href='http://support.typora.io/Version-Control//'>Recover lost contens</a></li></ul>" = "保存文件失败。<br/>建议拷贝内容至新的Typora窗口后再保存。<br/>了解更多：<ul><li><a href='http://support.typora.io/Report-Bugs/'>向我们报告问题</a></li><li><a href='http://support.typora.io/Version-Control//'>恢复文件内容</a></li></ul>";
 "Copy Content" = "拷贝内容";

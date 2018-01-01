@@ -173,7 +173,7 @@
 
 /* Help Menu */
 "Help" = "帮助";
-"Credits" = "Credits名单";
+"Credits" = "鸣谢";
 "Change Log" = "更新日志";
 "Website" = "网站";
 "Feedback" = "反馈";
@@ -202,7 +202,7 @@
 "Copy as MathML" = "以MathML复制";
 "Copy as Tex" = "以Tex复制";
 "Copy Math" = "复制公式";
-"Reveal in Finder" = "在查找中显示";
+"Reveal in Finder" = "在Finder中显示";
 "Open Link" = "打开链接";
 "Reveal in Sidebar" = "在侧边栏中显示";
 "Open in New Window" = "在新窗口中打开";
