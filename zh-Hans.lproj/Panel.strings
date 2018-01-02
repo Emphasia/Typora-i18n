@@ -39,7 +39,7 @@
 "Emoji (e.g. :smile:)" = "Emoji表情（例 :smile:）";
 "Images Insert" = "图片插入";
 "Use relative path if possible" = "优先使用相对路径";
-"Allow copy images to given folder" = "允许复制图片到指定文件夹";
+"Allow copy images to given folder" = "允许拷贝图片至指定文件夹";
 "Allow upload to given server" = "允许向指定服务器上传图片";
 "Auto Pair" = "自动匹配";
 "Auto pair brackets and quotes" = "匹配括号和引号";
@@ -170,7 +170,7 @@
 "Enable this feature on preferences panel" = "在偏好设置中开启此功能";
 "The option `%@` must be enabled first" = "请先开启选项`%@`";
 "%@ is a file, not a directory" = "%@ 是文件，不是文件夹";
-"Copy Images To…" = "复制图片到…";
+"Copy Images To…" = "拷贝图片至…";
 "Typora are trying copy the newly inserted image to folder %@  according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typera试图拷贝新插入图片至YAMLFront Matter指定目录%@。但该目录不存在，是否创建？";
 "Create Folder and Continue" = "创建目录并继续";
 "Document must be saved first" = "请先保存文件";

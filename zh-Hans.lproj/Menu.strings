@@ -71,7 +71,7 @@
 "Insert Local Images" = "插入本地图片";
 "Upload Local Images via iPic" = "使用iPic上传本地图片";
 "When Insert Local Image" = "当插入本地图片时";
-"Copy Image File to Folder" = "拷贝到文件夹";
+"Copy Image File to Folder" = "拷贝至文件夹";
 "Upload Image via iPic" = "使用iPic上传";
 "Use Image Root Path" = "设置图片根目录";
 "Line Endings" = "换行符";
@@ -210,7 +210,7 @@
 "New File" = "新建文件";
 "Rename" = "重命名";
 "New Folder" = "新建文件夹";
-"Move to Trash" = "移到回收站";
+"Move to Trash" = "移至回收站";
 
 /* Electron */
 "Learn Seplling" = "添加到字典";

@@ -43,7 +43,7 @@
 "Delete Table" = "删除表格";
 
 /* Images */
-"Copy Image To..." = "将图片拷贝到...";
+"Copy Image To..." = "将图片拷贝至...";
 "Typora are trying copy the newly inserted image to folder <code id='image-create-folder-target'></code> according to your YAML Front Matter setting. But the target folder does not exist, create it now?" = "Typora试图拷贝新插入图片至YAMLFront Matter指定目录<code id='image-create-folder-target'></code>。但该目录不存在，是否创建？";
 "Create Folder" = "创建文件夹";
 
@@ -56,12 +56,12 @@
 "Articles" = "文档";
 "Outline" = "大纲";
 "Files" = "文件";
-"Switch to File List view" = "切换到文档列表视图";
-"Switch to File Tree view" = "切换到文件树视图";
-"Switch to Outline view" = "切换到大纲视图";
+"Switch to File List view" = "切换为文档列表视图";
+"Switch to File Tree view" = "切换为文件树视图";
+"Switch to Outline view" = "切换为大纲视图";
 "Close sidebar" = "关闭侧边栏";
 "Loading" = "加载中";
-"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所选文件夹文件过多，请切换到<a id='switch-to-tree-on-oversize'>文件树视图</a>以获得更好的效果。";
+"Selected folders contains too many files. \nPlease switch to <a id='switch-to-tree-on-oversize'>File Tree view</a> for better performance." = "所选文件夹文件过多，请切换为<a id='switch-to-tree-on-oversize'>文件树视图</a>以获得更好的效果。";
 "New File" = "新建文件";
 "Unpin Outline Panel" = "关闭大纲视图";
 "Open Folder..." = "打开文件夹...";
@@ -104,7 +104,7 @@
 "Apply to All" = "全部应用";
 "Overwrite" = "覆盖";
 "Stop" = "停止";
-"back to document" = "回到文档";
+"back to document" = "返回文档";
 "Failed to load file" = "加载文件失败";
 "Save File Failed!" = "保存文件失败!"
 "Cannot open folder {0}" = "无法打开文件夹 {0}";
