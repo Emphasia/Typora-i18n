@@ -132,7 +132,7 @@
 "Emphasis" = "斜体";
 "Underline" = "下划线";
 "Code" = "代码";
-"Inline Math" = "内嵌公式";
+"Inline Math" = "内联公式";
 "Strike" = "删除线";
 "Highlight" = "高亮";
 "Superscript" = "上标";
@@ -181,7 +181,7 @@
 
 /* Touchbar */
 "Block Styles" = "块样式";
-"Inline Styles" = "内嵌样式";
+"Inline Styles" = "内联样式";
 "List Styles / Remove Block" = "列表样式/移除块";
 "Exit Source Code Mode" = "退出源代码模式";
 "Toggle Source Code Mode" = "开启源代码模式";
