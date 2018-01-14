@@ -13,7 +13,7 @@
 "Window Style" = "窗口样式";
 "Classic" = "经典";
 "Seamless" = "Seamless";
-"Seamless window only support OS X later than 10.10." = "Seamless样式只支持10.10以上macOS版本。";
+"Seamless window only support OS X later than 10.10." = "Seamless样式仅支持macOS 10.11及以上版本。";
 "Themes" = "主题";
 "Open Theme Folder" = "打开主题文件夹";
 "Please check `help`->`Quick Start` for short introduction. Visite http://theme.typora.io to get more themes or instructions." = "请查看`帮助`->`快速入门`获取简介，或访问http://theme.typora.io获取更多主题与指导。";
@@ -34,7 +34,7 @@
 /* Editor Panel */
 "Editor" = "编辑器";
 "Indent Size on Save" = "默认缩进";
-"only apply for quotes and lists created from menubar or hybrid view" = "只对通过菜单栏或快捷键生成的引用和列表有效";
+"only apply for quotes and lists created from menubar or hybrid view" = "仅对通过菜单栏或快捷键生成的引用和列表有效";
 "Trigger Autocomplete without ESC key for" = "触发自动完成";
 "Emoji (e.g. :smile:)" = "Emoji表情（例 :smile:）";
 "Images Insert" = "图片插入";
@@ -161,7 +161,7 @@
 "This fucntion requires latest version of iPic to be installed." = "该功能需要安装最新版本的iPic。";
 "Get iPic" = "获取iPic";
 "Cannot Continue…" = "无法继续...";
-"This feature require macOS >= 10.11" = "此功能只支持macOS 10.11及以上版本";
+"This feature require macOS >= 10.11" = "此功能仅支持macOS 10.11及以上版本";
 "One More Step" = "下一步";
 "Notice" = "注意";
 "This requires iPic to be installed, and referred image files will be uploaded to cloud services via iPic. Please also note that the default cloud service does not support delete uploaded image." = "此功能需要安装iPic，本地图片会通过iPic上传至云端。请注意iPic的默认云服务不支持图片的删除。";
@@ -184,7 +184,7 @@
 "All Files" = "所有文件";
 "All Supported Formats" = "所有支持的格式";
 "Discard Changes" = "放弃更改";
-"Discard" = "丢弃";
+"Discard" = "放弃";
 
 "Menu" = "菜单";
 "Back" = "返回";
