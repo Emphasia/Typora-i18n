@@ -175,6 +175,7 @@
 "Help" = "帮助";
 "Credits" = "鸣谢";
 "Change Log" = "更新日志";
+"Privacy Policy" = "隐私条款";
 "Website" = "网站";
 "Feedback" = "反馈";
 "About" = "关于";
@@ -228,3 +229,5 @@
 /* Related Panel */
 "Open Failed" = "无法打开";
 "File or folder does not exist." = "目标文件或文件夹不存在。";
+
+"Prettify Source Code" = "美化源代码";

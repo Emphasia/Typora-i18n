@@ -127,6 +127,9 @@
 "Characters" = "字符";
 "In Selection" = "选中部分";
 "Panel" = "面板";
+"Total" = "合计";
+"Word count only support OS X later than 10.10." = "字数统计仅支持macOS 10.11及以上版本。";
+"Indent Size for Code" = "代码缩进";
 
 /* Windows Prefernce Panel*/
 "Appearance" = "外观";
